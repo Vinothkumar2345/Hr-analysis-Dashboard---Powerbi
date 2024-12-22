@@ -1,8 +1,8 @@
 # Hr-analysis-Dashboard-Powerbi
 
-# This repository serves as my documentation for the HR analysis Dashboard project .
+This repository serves as my documentation for the HR analysis Dashboard project .
 
-# It showcases my competancy with the Microsoft Power BI Desktop application and demonstrates my proficiency in Data - Querying, Modelling & Visualization. The Project HR analysis Report has been created using Microsoft Power BI Desktop. 
+ It showcases my competancy with the Microsoft Power BI Desktop application and demonstrates my proficiency in Data - Querying, Modelling & Visualization. The Project HR analysis Report has been created using Microsoft Power BI Desktop. 
 
 # Phases of this project :
 
